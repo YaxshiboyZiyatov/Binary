@@ -1,0 +1,14 @@
+E:\.net\Binary\Binary\bin\Debug\netcoreapp3.1\Binary.exe
+E:\.net\Binary\Binary\bin\Debug\netcoreapp3.1\Binary.deps.json
+E:\.net\Binary\Binary\bin\Debug\netcoreapp3.1\Binary.runtimeconfig.json
+E:\.net\Binary\Binary\bin\Debug\netcoreapp3.1\Binary.runtimeconfig.dev.json
+E:\.net\Binary\Binary\bin\Debug\netcoreapp3.1\Binary.dll
+E:\.net\Binary\Binary\bin\Debug\netcoreapp3.1\Binary.pdb
+E:\.net\Binary\Binary\obj\Debug\netcoreapp3.1\Binary.csproj.AssemblyReference.cache
+E:\.net\Binary\Binary\obj\Debug\netcoreapp3.1\Binary.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Binary\Binary\obj\Debug\netcoreapp3.1\Binary.AssemblyInfoInputs.cache
+E:\.net\Binary\Binary\obj\Debug\netcoreapp3.1\Binary.AssemblyInfo.cs
+E:\.net\Binary\Binary\obj\Debug\netcoreapp3.1\Binary.csproj.CoreCompileInputs.cache
+E:\.net\Binary\Binary\obj\Debug\netcoreapp3.1\Binary.dll
+E:\.net\Binary\Binary\obj\Debug\netcoreapp3.1\Binary.pdb
+E:\.net\Binary\Binary\obj\Debug\netcoreapp3.1\Binary.genruntimeconfig.cache
